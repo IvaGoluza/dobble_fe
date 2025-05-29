@@ -2,6 +2,10 @@
 
 A web application built with React and TypeScript, featuring real-time multiplayer functionality enabling users to play a game Dobble - Spot It!
 **Dobble** is a quick and fun game where you race to spot the one matching symbol between any two cards. It’s fast, chaotic, and great for all ages.
+![image](https://github.com/user-attachments/assets/3d6a3d06-4b69-4b19-ace4-dc89031f26e5)
+![image](https://github.com/user-attachments/assets/8eaafa21-f8a4-4bc6-b972-e5f737e69f7c)
+
+
 
 ## 🚀 Tech Stack
 
